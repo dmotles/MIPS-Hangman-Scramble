@@ -1,0 +1,4 @@
+# MIPS Hangman Scramble
+This project was created while I was attending the [University of Pittsburgh](http://www.cs.pitt.edu/) to learn the MIPS ISA with the mars simulator.
+## Mars Simulator download
+[Missouri State Download Page](http://courses.missouristate.edu/kenvollmar/mars/download.htm)
